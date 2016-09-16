@@ -1,2 +1,2 @@
 # my_project
-for_project
+for stydents
